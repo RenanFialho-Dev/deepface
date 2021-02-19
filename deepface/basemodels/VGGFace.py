@@ -63,7 +63,7 @@ def baseModel():
 	
 	return model
 
-def loadModel(url = 'https://drive.google.com/file/d/1Z-UD_nHpHAxtiwLvkTo6ReROycaASvbb/view?usp=sharing'):
+def loadModel(url = 'https://drive.google.com/uc?id=1Z-UD_nHpHAxtiwLvkTo6ReROycaASvbb'):
 	
 	model = baseModel()
 	
